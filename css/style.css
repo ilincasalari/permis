@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(235, 204, 166);
+}
+table, td, th{
+   border: 2px solid brown;
+border-collapse: collapse;
+}
+th{
+    background-color: blanchedalmond;
+}
+td{
+    padding: 5px;
+}
+table{
+    width: 25%;
+    font-size: 24px;
+    margin: 0 auto;
+    
+}
+img{
+    width: 50px;
+    height: 60px;
+    margin: auto;
+    display: block;
+}
+
